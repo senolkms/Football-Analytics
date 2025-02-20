@@ -15,3 +15,4 @@ Futbol maç videolarından oyuncu ve top hareketlerini analiz eden bir yazılım
 - `ball_optimization.py`: Top hareketlerini optimize etme ve düzenleme
 - `ball_test.py`: Top takip sisteminin test edilmesi
 - `player_ball_interaction.py`: Oyuncu-top etkileşimlerini analiz etme
+- `ball_loses.py`: Top kayıplarını analiz etme
