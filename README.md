@@ -2,7 +2,22 @@
 
 Futbol maç videolarından oyuncu ve top hareketlerini analiz eden bir yazılım.
 
-## Dosya Açıklamaları
+### Programlama Dili
+- Python
+
+### Temel Kütüphaneler
+- OpenCV (cv2): Video işleme ve görüntü analizi
+- NumPy: Matematiksel işlemler ve array manipülasyonu
+- CUDA: GPU hızlandırma (opsiyonel)
+- PyTorch: Derin öğrenme modelleri için
+- TorchVision: Görüntü işleme modelleri
+
+### Kullanılan Teknikler
+- Nesne Tespiti (Object Detection)
+- Nesne Takibi (Object Tracking)
+- Homografik Dönüşüm
+- Koordinat Sistemi Dönüşümleri
+- Hız ve Mesafe Hesaplamaları
 
 ### Ana Dosyalar
 - `main.py`: Tüm modülleri sırayla çalıştıran ana orkestrasyon dosyası
